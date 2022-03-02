@@ -15,3 +15,4 @@ import "bootstrap/dist/js/bootstrap"
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
+require('jquery')
